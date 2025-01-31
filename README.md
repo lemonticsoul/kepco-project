@@ -1,6 +1,7 @@
 ## 문제 인식
 
-![image](https://github.com/user-attachments/assets/4a9e0c9a-a66c-4c49-935e-900468c1ad24)
+![image](https://github.com/user-attachments/assets/28c29f82-9060-40b8-91c6-5b2c414d8d53)
+
 
 
 으아닛!! 이렇게 비효율적인 점심시스템을 맞딱뜨린 제호?
@@ -17,8 +18,7 @@
 ### 2.일반회원
     - 메뉴확인 후 식수 등록(10:00까지 먹을지말지 커스텀가능)
     - 누가 식사하는지 확인
-
-
+    - 오늘의 이벤트 확인?
 ## STACK
 
 ### frontend :Expo(React Native)
